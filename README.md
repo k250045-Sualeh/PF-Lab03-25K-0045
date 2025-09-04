@@ -2,9 +2,19 @@
 
 **ABOUT ME**
 <br/>
-I am currently studying AI from Fast university.
+***I am currently studying AI from Fast university.***\
 <br/>
 I want to be proficient in multiple programming languages.
+<br/>
+Hobbies
+- Football
+- Video Games
+- Understanding muscle anatomy.
+<br/>
+Hobbies ( but in ordered list)
+1. football
+2. video games
+3. understanding muscle anatomy
 
 
 Learning Github
