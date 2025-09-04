@@ -11,7 +11,7 @@ Hobbies
 - Video Games
 - Understanding muscle anatomy.
 <br/>
-Hobbies ( but in ordered list)
+Hobbies
 1. football
 2. video games
 3. understanding muscle anatomy
