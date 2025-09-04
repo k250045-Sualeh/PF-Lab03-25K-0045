@@ -16,6 +16,3 @@ Hobbies
 1. football
 2. video games
 3. understanding muscle anatomy
-
-
-Learning Github
